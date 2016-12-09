@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.pdf
+*.gz
+*.bbl
+*.blg
+reference
+versions
+files_for_jfk
